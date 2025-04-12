@@ -17,7 +17,7 @@
 void main() {
   runApp(
     MaterialApp(
-      home: CodeScannerApp(), // Tu aplicación de escaneo inteligente
+      home: CodeScannerApp(),
       theme: ThemeData.dark().copyWith(
         primaryColor: Colors.blueAccent,
         accentColor: Colors.cyan[300],
