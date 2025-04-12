@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=MyCodeService;Lector+de+códigos+de+barras+inteligente" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=MyCodeService" alt="Typing SVG" />
 </div>
 
 <div align="center" style="margin: 20px 0;">
